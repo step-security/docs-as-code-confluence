@@ -52,11 +52,6 @@ jobs:
           parent-page-id: 123456789
 ```
 
-## Alternatives
-
-* [markdown-confluence/publish-action](https://github.com/markdown-confluence/publish-action)
-* [mbovo/mark2confluence](https://github.com/mbovo/mark2confluence)
-
 ## Development
 
 **Test**
