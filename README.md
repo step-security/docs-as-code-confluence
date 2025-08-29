@@ -52,10 +52,6 @@ jobs:
           parent-page-id: 123456789
 ```
 
-## Example of usage in a repository
-
-[step-security/docs-as-code-confluence-demo](https://github.com/step-security/docs-as-code-confluence-demo)
-
 ## Alternatives
 
 * [markdown-confluence/publish-action](https://github.com/markdown-confluence/publish-action)
