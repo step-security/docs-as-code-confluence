@@ -14,7 +14,7 @@
     "node": ">=20"
   },
   "dependencies": {
-    "@actions/core": "^1.6.0",
+    "@actions/core": "^1.11.1",
     "confluence-api": "^1.4.0",
     "marked": "^4.0.0",
     "node-html-parser": "^5.3.3"
